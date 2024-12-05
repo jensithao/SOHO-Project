@@ -29,7 +29,7 @@ Assume the ISP gave out a base network of 192.168.1.0, as the young network engi
 - <b>Test and Verifying Network Communication.</b> 
 
 <br />
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 <!--
 <p align="center">
  --!>
