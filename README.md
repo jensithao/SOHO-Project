@@ -68,7 +68,6 @@ Assume the ISP gave out a base network of 192.168.1.0, as the young network engi
 
 • VLAN config. <br/><br/>
 <img src="https://i.imgur.com/hRLa3oc.png" height="80%" width="80%" alt=""/>
-<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
@@ -77,6 +76,18 @@ Assume the ISP gave out a base network of 192.168.1.0, as the young network engi
 <br />
 <br />
 
+• Test and verifying confirgurations. <br/><br/>
+<img src="https://i.imgur.com/hVcX6X7.png" height="6%" width="60%" alt=""/>
+<img src="https://i.imgur.com/Woonf5C.png" height="6%" width="60%" alt=""/>
+<img src="https://i.imgur.com/RedHzBQ.png" height="6%" width="60%" alt=""/>
+<img src="https://i.imgur.com/ZSTDeVx.png" height="6%" width="60%" alt=""/>
+<img src="https://i.imgur.com/S5uvSjI.png" height="6%" width="60%" alt=""/>
+<img src="https://i.imgur.com/swu2i3R.png" height="6%" width="60%" alt=""/>
+<img src="https://i.imgur.com/IKbVyBA.png" height="6%" width="60%" alt=""/>
+<img src="https://i.imgur.com/teVGnjo.png" height="6%" width="60%" alt=""/>
+<img src="https://i.imgur.com/k6PdYHR.png" height="6%" width="60%" alt=""/>
+<br />
+<br />
 
 
  <!--
