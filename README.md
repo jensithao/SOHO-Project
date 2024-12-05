@@ -36,18 +36,12 @@ Assume the ISP gave out a base network of 192.168.1.0, as the young network engi
  
 <br />
 
-• I selected my devices and connected all the devices into different departments. <br/><br/>
+• Selected devices and connected all the devices into different departments. <br/><br/>
 <img src="https://i.imgur.com/6Qx42BV.png" height="80%" width="80%" alt=""/>
 <img src="https://i.imgur.com/fMMjJ3p.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
-• Subnetting the network to each department. <br/><br/>
-<img src="https://i.imgur.com/S2UB7BC.png" height="80%" width="80%" alt=""/>
-<img src="https://i.imgur.com/KJcUgki.png" height="80%" width="80%" alt=""/>
-<img src="https://i.imgur.com/1H5hIRJ.png" height="80%" width="80%" alt=""/>
-<br />
-<br />
 
 <br/>
 • Creating the VLANS. <br/><br/>
@@ -63,23 +57,23 @@ Assume the ISP gave out a base network of 192.168.1.0, as the young network engi
 <br />
 
 • Switch config. <br/><br/>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/5bbCdPs.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
 • Router config. <br/><br/>
-<img src="" height="50%" width="50%" alt=""/>
+<img src="https://i.imgur.com/QHInMk2.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
 • VLAN config. <br/><br/>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/hRLa3oc.png" height="80%" width="80%" alt=""/>
 <img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
 • Setting up DHCP. <br/><br/>
-<img src="" height="6%" width="60%" alt=""/>
+<img src="https://i.imgur.com/ERYC1OF.png" height="6%" width="60%" alt=""/>
 <br />
 <br />
 
